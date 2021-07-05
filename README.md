@@ -96,7 +96,7 @@
    </p>
 
 ### Xem thông tin các bài viết trên dòng thời gian
-   * Dòng thời gian gồm danh sách các bài viết từ bài viết cũng những người bản thân đang theo dõi và của bản thân, được sắp theo theo thời gian đăng (gần nhất thì ở đầu tiên)
+   * Dòng thời gian gồm danh sách các bài viết từ bài viết của những người bản thân đang theo dõi và của bản thân, được sắp theo theo thời gian đăng (gần nhất thì ở đầu tiên)
   
    * Nếu bài viết bị xóa hoặc bản thân hủy theo dõi ai đó, bài viết trên dòng thời gian được cập nhật lại
    
