@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854931406989",
+    "project_id": "postme-app-968ae",
+    "storage_bucket": "postme-app-968ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854931406989:android:9674180387c319e70162c4",
+        "android_client_info": {
+          "package_name": "com.jslyddle.postme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854931406989-877uoov67nhc6umfr2nnlhietilvsiue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jslyddle.postme_app",
+            "certificate_hash": "ed8013fdc5e11546912d7ca340fe6fdaa05b846e"
+          }
+        },
+        {
+          "client_id": "854931406989-tm5k17mm0ub5m4pouparvfr320albj6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZf5sgiIhteL_sI0Q8Akc6DKf4Bvk4kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854931406989-tm5k17mm0ub5m4pouparvfr320albj6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

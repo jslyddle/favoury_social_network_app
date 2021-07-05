@@ -1,0 +1,571 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:cloud_firestore] /home/jslyddle/Coding/Flutter/favoury_project/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/jslyddle/Coding/Flutter/favoury_project/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /home/jslyddle/Coding/Flutter/favoury_project/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] /home/jslyddle/Coding/Flutter/favoury_project/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_api_availability] /home/jslyddle/Coding/Flutter/favoury_project/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:location_permissions] /home/jslyddle/Coding/Flutter/favoury_project/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /home/jslyddle/Coding/Flutter/favoury_project/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /home/jslyddle/Coding/Flutter/favoury_project/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /home/jslyddle/Coding/Flutter/favoury_project/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/660d28ae7faa298943ed79bbfdecfae4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/969946638c89420d8030cb6f4503e681/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/exifinterface-1.3.0.aar/d7f8cb37eedd90427ddb33eacc64ba82/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/37480ceb23d4031bdce1dad1a02a788c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/1444356e50a9a5501c99232e0d4850e2/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2bd231e8f4b6204af373977f008f7ddd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/25486fff3421645d2f0953c9fdd3ec25/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/23d908b3abead4cb483f2d9ddddabc0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/b00dfd26c6e99b6349ddca0441deb746/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/1445ec473e1d7d78676453e78b304d92/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/f2a9904f60f93cf91ac1f559dad16b50/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/79e6eaae52f59ad91610211449c9dc41/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.2.aar/0f78c139bc99afdd2c49cb10189d5d67/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/0cbf4269507792038f7f608d5b52eb6d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/ced4799ec8f46432cfe95251644d4920/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/f66cceb20b7e029e5b16075b00e713a0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/04aa00e111132750a45e319d60e49256/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8a8b512b82fbafc3f79a1ed6afb88207/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5a22a9ac1b3ad0dd9b7dd4030d017d31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/75070af800a8f2ab1edc4ccb1402e592/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/7e02ad8454ea7b16f949e8eb40adc826/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d4b5487abf3a5cc4746ebbe93ffb1b59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/9ec68f4996f42f591b5c7aefbaa66175/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/49a1098deab6d88d4de14245b2d5a5be/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/fe69f359829f82cfbc514dd70ec573ab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/cf561a0130bd1491fbf658616234ff53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ed2ddfb60ea54549b1c248e14f640288/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c33eeffdfdb24d5eb21842f4bcff9203/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/97f950e234ac8a4091210880fbe7332c/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c79133be6ecb65d35aa69691f009285f/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.16.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/1877831dcf1d4fd83edbf441cd7e8d94/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/ed7e19ac5c97229d6ffef038a3a8efb5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/0d4e6526998038eab4206cf45d40da9e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/7c06738d6a21ec6ef1eb51e6d5fcd89a/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-18:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/969946638c89420d8030cb6f4503e681/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/969946638c89420d8030cb6f4503e681/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2bd231e8f4b6204af373977f008f7ddd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2bd231e8f4b6204af373977f008f7ddd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/25486fff3421645d2f0953c9fdd3ec25/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/25486fff3421645d2f0953c9fdd3ec25/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/f2a9904f60f93cf91ac1f559dad16b50/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/f2a9904f60f93cf91ac1f559dad16b50/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/79e6eaae52f59ad91610211449c9dc41/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/79e6eaae52f59ad91610211449c9dc41/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.2.aar/0f78c139bc99afdd2c49cb10189d5d67/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.2.aar/0f78c139bc99afdd2c49cb10189d5d67/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/0cbf4269507792038f7f608d5b52eb6d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/0cbf4269507792038f7f608d5b52eb6d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/ced4799ec8f46432cfe95251644d4920/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/ced4799ec8f46432cfe95251644d4920/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/f66cceb20b7e029e5b16075b00e713a0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/f66cceb20b7e029e5b16075b00e713a0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/04aa00e111132750a45e319d60e49256/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/04aa00e111132750a45e319d60e49256/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/9ec68f4996f42f591b5c7aefbaa66175/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/9ec68f4996f42f591b5c7aefbaa66175/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/97f950e234ac8a4091210880fbe7332c/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/97f950e234ac8a4091210880fbe7332c/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/7c06738d6a21ec6ef1eb51e6d5fcd89a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/7c06738d6a21ec6ef1eb51e6d5fcd89a/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/9ec68f4996f42f591b5c7aefbaa66175/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:11:9-32
+	android:icon
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.jslyddle.postme_app.MainActivity
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml
+MERGED from [:cloud_firestore] /home/jslyddle/Coding/Flutter/favoury_project/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/jslyddle/Coding/Flutter/favoury_project/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/jslyddle/Coding/Flutter/favoury_project/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/jslyddle/Coding/Flutter/favoury_project/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/jslyddle/Coding/Flutter/favoury_project/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/jslyddle/Coding/Flutter/favoury_project/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /home/jslyddle/Coding/Flutter/favoury_project/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /home/jslyddle/Coding/Flutter/favoury_project/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /home/jslyddle/Coding/Flutter/favoury_project/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /home/jslyddle/Coding/Flutter/favoury_project/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /home/jslyddle/Coding/Flutter/favoury_project/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /home/jslyddle/Coding/Flutter/favoury_project/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/jslyddle/Coding/Flutter/favoury_project/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/jslyddle/Coding/Flutter/favoury_project/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/jslyddle/Coding/Flutter/favoury_project/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/jslyddle/Coding/Flutter/favoury_project/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/jslyddle/Coding/Flutter/favoury_project/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/jslyddle/Coding/Flutter/favoury_project/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/660d28ae7faa298943ed79bbfdecfae4/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/660d28ae7faa298943ed79bbfdecfae4/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/969946638c89420d8030cb6f4503e681/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/969946638c89420d8030cb6f4503e681/AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/exifinterface-1.3.0.aar/d7f8cb37eedd90427ddb33eacc64ba82/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/exifinterface-1.3.0.aar/d7f8cb37eedd90427ddb33eacc64ba82/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/37480ceb23d4031bdce1dad1a02a788c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/37480ceb23d4031bdce1dad1a02a788c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/1444356e50a9a5501c99232e0d4850e2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/1444356e50a9a5501c99232e0d4850e2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2bd231e8f4b6204af373977f008f7ddd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2bd231e8f4b6204af373977f008f7ddd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/25486fff3421645d2f0953c9fdd3ec25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/25486fff3421645d2f0953c9fdd3ec25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/23d908b3abead4cb483f2d9ddddabc0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/23d908b3abead4cb483f2d9ddddabc0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/b00dfd26c6e99b6349ddca0441deb746/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/b00dfd26c6e99b6349ddca0441deb746/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/1445ec473e1d7d78676453e78b304d92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/1445ec473e1d7d78676453e78b304d92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/f2a9904f60f93cf91ac1f559dad16b50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/f2a9904f60f93cf91ac1f559dad16b50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/79e6eaae52f59ad91610211449c9dc41/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/79e6eaae52f59ad91610211449c9dc41/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.2.aar/0f78c139bc99afdd2c49cb10189d5d67/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.2.aar/0f78c139bc99afdd2c49cb10189d5d67/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/0cbf4269507792038f7f608d5b52eb6d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/0cbf4269507792038f7f608d5b52eb6d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/ced4799ec8f46432cfe95251644d4920/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/ced4799ec8f46432cfe95251644d4920/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/f66cceb20b7e029e5b16075b00e713a0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/f66cceb20b7e029e5b16075b00e713a0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/04aa00e111132750a45e319d60e49256/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/04aa00e111132750a45e319d60e49256/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8a8b512b82fbafc3f79a1ed6afb88207/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8a8b512b82fbafc3f79a1ed6afb88207/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5a22a9ac1b3ad0dd9b7dd4030d017d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5a22a9ac1b3ad0dd9b7dd4030d017d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/75070af800a8f2ab1edc4ccb1402e592/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/75070af800a8f2ab1edc4ccb1402e592/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/7e02ad8454ea7b16f949e8eb40adc826/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/7e02ad8454ea7b16f949e8eb40adc826/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d4b5487abf3a5cc4746ebbe93ffb1b59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d4b5487abf3a5cc4746ebbe93ffb1b59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/9ec68f4996f42f591b5c7aefbaa66175/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/9ec68f4996f42f591b5c7aefbaa66175/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/49a1098deab6d88d4de14245b2d5a5be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/49a1098deab6d88d4de14245b2d5a5be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/fe69f359829f82cfbc514dd70ec573ab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/fe69f359829f82cfbc514dd70ec573ab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/cf561a0130bd1491fbf658616234ff53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/cf561a0130bd1491fbf658616234ff53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ed2ddfb60ea54549b1c248e14f640288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ed2ddfb60ea54549b1c248e14f640288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c33eeffdfdb24d5eb21842f4bcff9203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c33eeffdfdb24d5eb21842f4bcff9203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/97f950e234ac8a4091210880fbe7332c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/97f950e234ac8a4091210880fbe7332c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c79133be6ecb65d35aa69691f009285f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c79133be6ecb65d35aa69691f009285f/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.16.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/1877831dcf1d4fd83edbf441cd7e8d94/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/1877831dcf1d4fd83edbf441cd7e8d94/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/ed7e19ac5c97229d6ffef038a3a8efb5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/ed7e19ac5c97229d6ffef038a3a8efb5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/0d4e6526998038eab4206cf45d40da9e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/0d4e6526998038eab4206cf45d40da9e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/7c06738d6a21ec6ef1eb51e6d5fcd89a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/7c06738d6a21ec6ef1eb51e6d5fcd89a/AndroidManifest.xml:5:5-44
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:google_sign_in] /home/jslyddle/Coding/Flutter/favoury_project/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /home/jslyddle/Coding/Flutter/favoury_project/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/1444356e50a9a5501c99232e0d4850e2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/1444356e50a9a5501c99232e0d4850e2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/jslyddle/Coding/Flutter/favoury_project/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /home/jslyddle/Coding/Flutter/favoury_project/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:geolocator] /home/jslyddle/Coding/Flutter/favoury_project/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:geolocator] /home/jslyddle/Coding/Flutter/favoury_project/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseInstanceIDService
+ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-102
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-80
+	android:name
+		ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:25-77
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-17:19
+	android:name
+		ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-16:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-78
+	android:name
+		ADDED from [:firebase_messaging] /home/jslyddle/Coding/Flutter/favoury_project/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/1444356e50a9a5501c99232e0d4850e2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/1444356e50a9a5501c99232e0d4850e2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/1877831dcf1d4fd83edbf441cd7e8d94/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/1877831dcf1d4fd83edbf441cd7e8d94/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:17:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/0007d4a23fed7037d4f5e725c9547f7d/AndroidManifest.xml:19:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/df3b33acb266ebdbe1b6a3755aed11dc/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/0af2b184e7e5b45d513dd929def4aab9/AndroidManifest.xml:34:13-89
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-messaging-17.3.3.aar/3ce349277fc056463d70ead34e449ffe/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4fbf90bdfe32913d7bf012dab97f420b/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/08b4f6bb65a434b28a3ce38547317a13/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/469c0e3043aea853acaf7a3e78bdabcd/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/4fee483ac61272d42534f175a373ab0b/AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/e6ff1316cb331a26741ffe9ce7cb2a5d/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/360040f1d019beab2ac59696fb67fb80/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/jslyddle/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/791be9956ffed90ab91f50fb3be4a3a4/AndroidManifest.xml:24:13-58
