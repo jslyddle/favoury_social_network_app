@@ -10,7 +10,7 @@
 ## Nội dung
 1. [Chức năng](#chức-năng)
 
-   1. [Đăng nhập và dăng kí](#đăng-nhập-và-đăng-kí)
+   1. [Đăng nhập và đăng kí](#đăng-nhập-và-đăng-kí)
    
    1. [Quên mật khẩu](#quên-mật-khẩu)
    
@@ -41,7 +41,7 @@
 1. [Giấy phép](#giấy-phép)
 
 ## Chức năng
-### Đăng nhập và Đăng kí
+### Đăng nhập và đăng kí
    * Đăng nhập (Email và Google)
   
    * Đăng kí (Email)
