@@ -63,7 +63,7 @@
      
    * Có thể lấy vị trí thực hiện tại của thiết bị hoặc nhập tùy ý
    
-   * Bài viết sau khi đăng sẽ xuất hiên trên dòng thời gian và trang cá nhân
+   * Bài viết sau khi đăng sẽ xuất hiện trên dòng thời gian và trang cá nhân
    
    <p align="center">
    <img src="https://i.ibb.co/zRcMs4C/screenshot-2021-07-06-02-00-43-7.png" height = "480" width="270"> <img src="https://i.ibb.co/5FxC0qF/screenshot-2021-07-06-02-01-07-762.png" height = "480" width="270"><img src="https://i.ibb.co/CwtS7NK/screenshot-2021-07-06-02-08-16-541.png" height = "480" width="270"><img src="https://i.ibb.co/6RfqyvG/screenshot-2021-07-06-02-08-20-927.png" height = "480" width="270">
