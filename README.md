@@ -147,7 +147,7 @@
 
 - Language : Dart
 
-- FrameWork : Flutter 2.2.3 -  https://flutter.dev/ & https://github.com/flutter
+- Framework : Flutter 2.2.3 -  https://flutter.dev/ & https://github.com/flutter
 
 - Database: Firebase - https://console.firebase.google.com/
 
