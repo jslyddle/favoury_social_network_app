@@ -1,4 +1,4 @@
-# ỨNG DỤNG FAVOURY - MẠNG XÃ HỘI QUY MÔ NHỎ
+# ỨNG DỤNG FAVOURY - MẠNG XÃ HỘI KẾT NỐI BẠN BÈ BỐN PHƯƠNG
 
 Ứng dụng mô tả lại các chức năng cơ bản của một mạng xã hội như đăng, tương tác với bài đăng (like, comment) hoặc tương tác với người dùng khác (follow, unfollow), với nhiều chức năng thiết thực, dễ dàng sử dụng và dữ liệu được đồng bộ, cập nhật liên tục và realtime.
 
